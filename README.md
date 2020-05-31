@@ -5,4 +5,4 @@ A quiz on Mario 64. Our first assignment from Grade 12 CS, and our intro to PHP.
 
 Original site preserved at http://the404.nl/software/mario/MarioHome.html
 
-Made in colaboration with Kevin
+Made in collaboration with Kevin
