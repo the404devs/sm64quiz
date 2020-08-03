@@ -198,7 +198,7 @@
 					This page was last updated on <b>02/28/18 at 10:43</b>
 				</p>
 				<div class="footerWrapper">
-					<span class="footButton" style="font-size:30px;cursor:pointer;left: 0;" onclick="location.href = 'MarioHome.html';">🏠</span></a>
+					<span class="footButton" style="font-size:30px;cursor:pointer;left: 0;" onclick="location.href = 'index.html';">🏠</span></a>
 					<span class="footButton" style="font-size:30px;cursor:pointer;right: 25px;" onclick="location.href = 'help.html';"><i" class="fa fa-question-circle-o"></i></span></a>
 				</div>
 			</div>
